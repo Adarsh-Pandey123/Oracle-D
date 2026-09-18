@@ -1,0 +1,11 @@
+numpy
+tifffile
+torch
+tqdm
+fastapi
+uvicorn[standard]
+pydantic
+pandas
+tensorflow
+xgboost
+joblib
