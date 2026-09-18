@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+dataset/
+outputs/checkpoints/
+outputs/predictions/
+frontend/node_modules/
+frontend/dist/
+.DS_Store
+.vscode/
